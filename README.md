@@ -31,7 +31,7 @@ The program naturally evolved to address critical aspects like data security, en
 
 ## Addressing Contemporary Health Challenges: The Role of Data Science
 
-https://github.com/christophertheys/Portfolio_of_Learning/blob/dc0d4d3bc57171a82e50ccbf304d7b7b432f2f18/1834424%20Contemporary%20Health%20challenge.pdf 
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/dc0d4d3bc57171a82e50ccbf304d7b7b432f2f18/1834424%20Contemporary%20Health%20challenge.pdf 
 
 A comprehensive review of a contemporary health challenges, within the South African context.
 
