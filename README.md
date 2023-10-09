@@ -52,5 +52,9 @@ Link to slide show and embedded audio recording: https://github.com/christophert
 
 Download Raw file to access slideshow on Powerpoint 
 
+## Online Revision Session for Lab 1
+
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/4688bfc939d5d81813ef10e72534c4114b56bf62/Online%20Revision%20Session%20for%20Lab%201.pdf 
+
 
 
