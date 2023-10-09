@@ -1,4 +1,4 @@
-![image](https://github.com/christophertheys/Portfolio_of_Learning/assets/112190867/347a534c-0bf4-447b-b1cb-b7cdfb5af477)# Portfolio_of_Learning
+# Portfolio_of_Learning
 Developing a portfolio of learning that shows my competency development and understanding of Health Analytics 🩺
 
 Personal Statement and Reflection
