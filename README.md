@@ -182,7 +182,7 @@ After hyperparameter tuning for our decision tree model, the model correctly pre
 
 ## Activity 5 - PCA biomedical data
 
-Hyperlink to Jupyter Notebook:
+Hyperlink to Jupyter Notebook: https://github.com/christophertheys/Portfolio_of_Learning/blob/caa128e65cfa1c94690bdb6b3519def359e61fa4/Activity_5_1834424.ipynb
 
 Hyperlink to Reflection: 
 
