@@ -101,20 +101,20 @@ Reflecting upon this exploration, the lessons extend beyond the technical and st
 
 ## Lab 3 - Breast Cancer Prediction Using Decision Tree
 
-Hyperlink: 
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/f8e1c3c2ca626becc791c2bd60bbfd5d1614e374/HealthAnalytics_Lab3FINAL.ipynb 
 
-### Background on breast cancer 
+- Background on breast cancer 
 
 Breast cancer is one of the most common cancers worldwide, predominantly affecting women, although men can also be diagnosed with this type of cancer. It arises from the cells of the breast, often from the inner lining of milk ducts or the lobules that supply these ducts with milk. The World Health Organization reports that breast cancer impacts over 2.1 million women each year, marking it as a major global health concern. 
 In this comprehensive report, we delineate the findings derived from employing a decision tree algorithm in the predictive analysis of breast cancer incidences. Through meticulous data preparation and model optimization, we strive to leverage the decision tree algorithm’s capabilities to foster substantial advancements in predictive diagnostics, thereby demonstrating the potential of this model as a pivotal tool in mitigating the global health challenge posed by breast cancer. 
 
-### The Data 
+- The Data 
 
 We used a dataset found at which contained 569 rows and 32 columns containing information from breast mass biopsy samples. The dataset also has the target variable of diagnosis, which we are trying to predict whether the observation is benign or malignant based on the other attributes. 
 For this study, we utilized a dataset retrieved from, https://data.world/health/breastcancer- Wisconsin, which encompasses 569 instances and 32 attributes derived from breast mass biopsy samples. Each instance in this dataset represents critical data gathered from individual biopsy samples, with a range of attributes that facilitate a detailed analysis aimed at the predictive diagnosis of breast cancer. 
 The pivotal component of this dataset is the target variable denominated as 'diagnosis', establishing the binary classification that we aim to predict; benign or malignant. 
 
-### The Process 
+- The Process 
 
 Suite of Libraries 
 NumPy: Engaged for efficient handling of arrays and matrices, which is essential in managing our dataset efficiently. 
@@ -126,20 +126,20 @@ Within this library:
 * Modules aided in feature selection, helping identify the most relevant attributes for our predictive model. o Served as the foundation of our decision tree model, facilitating the training, and testing process. 
 * Facilitated the hyperparameter tuning process, helping optimize the model for better performance. 
 
-### Preliminary Data Analysis 
+- Preliminary Data Analysis 
 
 We ensured that the dataset doesn’t have any duplicate observations and that all the required attributes are available. 
 A detailed error message that specifies which columns are missing is generated using a formatted string that joins the names of the missing columns with a comma. This approach ensures that the script will halt execution and alert the user to the specific issue, thereby preventing silent failures and facilitating debugging. 
 
-### Exploring the Data 
+- Exploring the Data 
 
 To get a better understanding of the dataset we examined the data visually and statistically to uncover patterns, relationships, and potential outliers. 
 
-### Preparing the Data 
+- Preparing the Data 
 
 The dataset underwent pre-processing which included steps such as duplication, the elimination of irrelevant columns, and the creation of a numerical depiction through correlation analysis. Additionally, the relations between different features were visualized, and verification was carried out to confirm the accurate representation of various classes in the 'diagnosis' column. 
 
-### Feature Selection and Analysis 
+- Feature Selection and Analysis 
 Based on the insights gained from exploring the data and further analysis we determined which features were most relevant for predicting breast cancer. In the initial stage of our feature selection process, we undertook a systematic exploration of each numerical attribute in our dataset to gain a foundational understanding of the underlying distributions and to identify potential outliers that could influence our model’s performance. 
 
 Distribution Analysis: 
@@ -150,18 +150,18 @@ Subsequently, we utilized Seaborn's boxplot function to create boxplots for each
 Correlation Analysis: 
 The correlation matrix helps you identify relationships between features. High correlations between features can indicate multicollinearity, which may affect the model's performance. This analysis aids in selecting features that are less correlated with each other. 
 
-### Implementing the Decision Tree Algorithm 
+- Implementing the Decision Tree Algorithm 
 
 Per the assignment requirements, we were tasked to implement a decision tree model using numpy, matplotlib, or Sklearn libraries. Scikit-learn's DecisionTreeClassifier typically employs an optimized version of the CART (Classification and Regression Trees) algorithm. The CART algorithm is efficient and scalable, making it suitable for datasets of various sizes. 
 Implementing the decision tree algorithm involved training the decision tree algorithm on the data. This allows the algorithm to learn from the dataset how to distinguish between benign and malignant cases based on the features we provided. 
 The classifier is trained utilizing the training dataset, thereby learning the underlying patterns present within the data. This knowledge equips the classifier with the ability to accurately forecast outcomes on previously unseen data. 
 
-### Model Optimization and Hyper-parameter Tuning 
+- Model Optimization and Hyper-parameter Tuning 
 
 The objective is to enhance the decision tree model by identifying and incorporating the best hyperparameters, ultimately improving the model's ability to make accurate predictions. 
 Including a varied range of values for these hyperparameters ensures that the grid search can explore a broad space of possible models, which is essential to finding a well-tuned model 
 
-### Results 
+- Results 
 
 Our model was assessed using various metrics to evaluate its performance: 
 The model achieved an accuracy score of approximately 90.06%. Accuracy, however, isn't a good metric especially for imbalanced datasets and applications like medical diagnosis. It was then important to consider other metrics like precision, recall, and the confusion matrix to properly evaluate model performance. 
