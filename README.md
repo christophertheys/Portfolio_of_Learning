@@ -184,7 +184,7 @@ After hyperparameter tuning for our decision tree model, the model correctly pre
 
 Hyperlink to Jupyter Notebook: https://github.com/christophertheys/Portfolio_of_Learning/blob/caa128e65cfa1c94690bdb6b3519def359e61fa4/Activity_5_1834424.ipynb
 
-Hyperlink to Reflection: 
+Hyperlink to Reflection: https://github.com/christophertheys/Portfolio_of_Learning/blob/6a5ab0a61765888bf721bf59c54885c13009a681/Activity_5_PCA_1834424.pdf 
 
 
 
