@@ -214,6 +214,21 @@ Scatterplots of the first two principal components, coloured according to cluste
 
 The combined application of PCA and k-Means Clustering has demonstrated a fascinating exploration of a dataset, allowing succinct visualization of its internal structure and facilitating the identification of potential clusters.
 
+## Activity 6 - Data Security
+
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/65eba5c76ef672a1744d25e51620c8c7811ace02/Activity_6_1834424.pdf
+
+Activity 6 – Data Security
+
+Reflection on Data Security 
+
+The task offered an insightful dive into the crucial realm of data security within project lifecycles, uncovering a spectrum of potential issues and consequential safeguard strategies. Reflecting on past projects allowed me to pinpoint potential data security vulnerabilities at various stages within each lab and activity, such as data collection, storage, transmission, and concerning aspects like access control and confidentiality. 
+
+Engaging in reflection of assignments brought forth a range of perspectives, experiences, and insights on practical data security implementations, enhancing my understanding of the practicalities and challenges of enforcing robust data security practices in real-world project contexts. 
+
+I found that this task enabled an approach of blending theoretical knowledge with practical application, fostering a well-rounded understanding of data security in the realm of project management and execution. 
+
+
 
 
 
