@@ -56,5 +56,19 @@ Download Raw file to access slideshow on Powerpoint
 
 Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/4688bfc939d5d81813ef10e72534c4114b56bf62/Online%20Revision%20Session%20for%20Lab%201.pdf 
 
+## Types of Data 
+
+Types of Data Reflection – Exploring Data
+
+Disease Classification - Algorithms can be trained to classify diseases like tumours as malignant or benign. This uses categorical data as the outcome is typically a distinct category.
+
+Prediction of Patient Readmission Rates - Hospitals might use patient data to predict the likelihood of a patient being readmitted within a certain time frame. This would be categorical data. 
+
+Blood Sugar Level - Machine learning models can predict future blood sugar levels. This problem leverages continuous data as blood sugar levels are measured on a continuous scale. 
+
+Estimation of Drug Response - Analysing patient genetics and other biomarkers, machine learning models can be designed to predict how a patient will respond to a particular medication. This would be classified as categorical data as either a positive response, neutral response, or a negative response. 
+
+Progression Tracking of Neurological Diseases – Diseases such as Parkinson's or Alzheimer's, machine learning models can be utilised to analyse patient data and predict the rate of disease progression. This uses continuous data, because the disease progression will be measured on a continuous basis.  
+
 
 
