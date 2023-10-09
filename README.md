@@ -86,7 +86,7 @@ The subsequent model optimization posed a challenging yet enlightening experienc
 
 ## Activity 2 - Using Health Analytics in a Healthcare Setting
 
-Hyperlink: 
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/4e1c9c28db87068364a5adfcc71a6b7c4453d5c3/1834424%20Activity%202%20.pdf 
 
 Reflection
 
