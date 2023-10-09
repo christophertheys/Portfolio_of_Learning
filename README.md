@@ -218,8 +218,6 @@ The combined application of PCA and k-Means Clustering has demonstrated a fascin
 
 Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/65eba5c76ef672a1744d25e51620c8c7811ace02/Activity_6_1834424.pdf
 
-Activity 6 – Data Security
-
 Reflection on Data Security 
 
 The task offered an insightful dive into the crucial realm of data security within project lifecycles, uncovering a spectrum of potential issues and consequential safeguard strategies. Reflecting on past projects allowed me to pinpoint potential data security vulnerabilities at various stages within each lab and activity, such as data collection, storage, transmission, and concerning aspects like access control and confidentiality. 
