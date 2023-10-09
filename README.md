@@ -84,7 +84,7 @@ Transitioning to model implementation, utilizing numpy, matplotlib, and sklearn 
 
 The subsequent model optimization posed a challenging yet enlightening experience, wherein we navigated through hyper-parameter tuning and regularisation techniques. While being mindful of the dataset's characteristics and the peril of overfitting, our group strategically employed techniques like GridSearchCV for hyperparameter tuning and implemented L1 and L2 regularization, ensuring our model was both accurate and generalizable to unseen data. 
 
-# Activity 2 - Using Health Analytics in a Healthcare Setting
+## Activity 2 - Using Health Analytics in a Healthcare Setting
 
 Hyperlink: 
 
