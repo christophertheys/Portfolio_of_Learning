@@ -70,5 +70,22 @@ Estimation of Drug Response - Analysing patient genetics and other biomarkers, m
 
 Progression Tracking of Neurological Diseases – Diseases such as Parkinson's or Alzheimer's, machine learning models can be utilised to analyse patient data and predict the rate of disease progression. This uses continuous data, because the disease progression will be measured on a continuous basis.  
 
+## Lab 2 
+
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/105c3aa8d886238bc1848a987fa81eaf1b92685a/1834424_Lab2_logisticregression.ipynb
+
+Lab 2 Reflection
+
+Participating in Lab 2, the objective of the task was undertaking a process of building a complex logistic regression model, starting with the important step of feature selection. Together, we used different feature selection techniques, such as recursive feature elimination and using feature importance scores, with the aim of distilling the most relevant predictors for our model.
+
+Navigating the group's tasks proved to be a difficult task as we faced significant obstacles in our collective working dynamics, especially in the area of communication. The lack of consistent and clear communication between us often disrupts our workflow, creating not only procedural obstacles but also affecting the  synergy and efficiency of our efforts. our collaborative efforts. This common problem has highlighted the urgent need to establish strong communication channels and standards in future collaborative projects.
+
+Transitioning to model implementation, utilizing numpy, matplotlib, and sklearn libraries allowed us to not only apply theoretical knowledge practically but also deepen our collective understanding of logistic regression's functional form and optimization procedures. 
+
+The subsequent model optimization posed a challenging yet enlightening experience, wherein we navigated through hyper-parameter tuning and regularisation techniques. While being mindful of the dataset's characteristics and the peril of overfitting, our group strategically employed techniques like GridSearchCV for hyperparameter tuning and implemented L1 and L2 regularization, ensuring our model was both accurate and generalizable to unseen data. 
+
+
+
+
 
 
