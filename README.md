@@ -50,7 +50,7 @@ This practical aspect not only solidified my understanding of the algorithm’s 
 
 Link to slide show and embedded audio recording: https://github.com/christophertheys/Portfolio_of_Learning/blob/f663d048433557d2fad1293c02ec853ee53e2c17/1834424%20Activity%201%20Slide%20Show.pptx
 
-Download Raw file to access slideshow on Powerpoint 
+Download Raw File to access and download slideshow on Powerpoint 
 
 ## Online Revision Session for Lab 1
 
