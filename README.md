@@ -99,6 +99,87 @@ Some challenges were also identified that the healthcare organizations encounter
 
 Reflecting upon this exploration, the lessons extend beyond the technical and strategic facets of health analytics. This task emphasized the vital role that data and analytics play in enhancing healthcare outcomes and operational efficacy. Furthermore, it has instilled a deeper appreciation for the complexity and multifaceted nature of implementing health analytics within organizations, thereby shaping a well-rounded perspective that connects technical, strategic, and ethical considerations in the realm of health analytics. 
 
+## Lab 3 - Breast Cancer Prediction Using Decision Tree
+
+Hyperlink: 
+
+### Background on breast cancer 
+
+Breast cancer is one of the most common cancers worldwide, predominantly affecting women, although men can also be diagnosed with this type of cancer. It arises from the cells of the breast, often from the inner lining of milk ducts or the lobules that supply these ducts with milk. The World Health Organization reports that breast cancer impacts over 2.1 million women each year, marking it as a major global health concern. 
+In this comprehensive report, we delineate the findings derived from employing a decision tree algorithm in the predictive analysis of breast cancer incidences. Through meticulous data preparation and model optimization, we strive to leverage the decision tree algorithm’s capabilities to foster substantial advancements in predictive diagnostics, thereby demonstrating the potential of this model as a pivotal tool in mitigating the global health challenge posed by breast cancer. 
+
+### The Data 
+
+We used a dataset found at which contained 569 rows and 32 columns containing information from breast mass biopsy samples. The dataset also has the target variable of diagnosis, which we are trying to predict whether the observation is benign or malignant based on the other attributes. 
+For this study, we utilized a dataset retrieved from, https://data.world/health/breastcancer- Wisconsin, which encompasses 569 instances and 32 attributes derived from breast mass biopsy samples. Each instance in this dataset represents critical data gathered from individual biopsy samples, with a range of attributes that facilitate a detailed analysis aimed at the predictive diagnosis of breast cancer. 
+The pivotal component of this dataset is the target variable denominated as 'diagnosis', establishing the binary classification that we aim to predict; benign or malignant. 
+
+### The Process 
+
+Suite of Libraries 
+NumPy: Engaged for efficient handling of arrays and matrices, which is essential in managing our dataset efficiently. 
+Pandas: Utilized for data manipulation and analysis, aiding in cleaning, and organizing our dataset for optimal performance. 
+Matplotlib: Employed for crafting visualizations to better understand our data and to create graphical representations of our findings. 
+Seaborn: Leveraged in conjunction with Matplotlib to enhance the visualization of data through the creation of aesthetically pleasing and informative statistical graphics. 
+Scikit-learn (sklearn): This library played a pivotal role, offering a range of tools used throughout the process. Splitting our data into training and test sets, a critical step in training our decision tree model.
+Within this library: 
+* Modules aided in feature selection, helping identify the most relevant attributes for our predictive model. o Served as the foundation of our decision tree model, facilitating the training, and testing process. 
+* Facilitated the hyperparameter tuning process, helping optimize the model for better performance. 
+
+### Preliminary Data Analysis 
+
+We ensured that the dataset doesn’t have any duplicate observations and that all the required attributes are available. 
+A detailed error message that specifies which columns are missing is generated using a formatted string that joins the names of the missing columns with a comma. This approach ensures that the script will halt execution and alert the user to the specific issue, thereby preventing silent failures and facilitating debugging. 
+
+### Exploring the Data 
+
+To get a better understanding of the dataset we examined the data visually and statistically to uncover patterns, relationships, and potential outliers. 
+
+### Preparing the Data 
+
+The dataset underwent pre-processing which included steps such as duplication, the elimination of irrelevant columns, and the creation of a numerical depiction through correlation analysis. Additionally, the relations between different features were visualized, and verification was carried out to confirm the accurate representation of various classes in the 'diagnosis' column. 
+
+### Feature Selection and Analysis 
+Based on the insights gained from exploring the data and further analysis we determined which features were most relevant for predicting breast cancer. In the initial stage of our feature selection process, we undertook a systematic exploration of each numerical attribute in our dataset to gain a foundational understanding of the underlying distributions and to identify potential outliers that could influence our model’s performance. 
+
+Distribution Analysis: 
+This step was crucial in understanding the data distribution, which could influence the feature selection based on the specific patterns or distributions observed. 
+
+Subsequently, we utilized Seaborn's boxplot function to create boxplots for each numerical column, providing a graphic representation of the central tendency and variability of the data, alongside showcasing potential outliers. 
+
+Correlation Analysis: 
+The correlation matrix helps you identify relationships between features. High correlations between features can indicate multicollinearity, which may affect the model's performance. This analysis aids in selecting features that are less correlated with each other. 
+
+### Implementing the Decision Tree Algorithm 
+
+Per the assignment requirements, we were tasked to implement a decision tree model using numpy, matplotlib, or Sklearn libraries. Scikit-learn's DecisionTreeClassifier typically employs an optimized version of the CART (Classification and Regression Trees) algorithm. The CART algorithm is efficient and scalable, making it suitable for datasets of various sizes. 
+Implementing the decision tree algorithm involved training the decision tree algorithm on the data. This allows the algorithm to learn from the dataset how to distinguish between benign and malignant cases based on the features we provided. 
+The classifier is trained utilizing the training dataset, thereby learning the underlying patterns present within the data. This knowledge equips the classifier with the ability to accurately forecast outcomes on previously unseen data. 
+
+### Model Optimization and Hyper-parameter Tuning 
+
+The objective is to enhance the decision tree model by identifying and incorporating the best hyperparameters, ultimately improving the model's ability to make accurate predictions. 
+Including a varied range of values for these hyperparameters ensures that the grid search can explore a broad space of possible models, which is essential to finding a well-tuned model 
+
+### Results 
+
+Our model was assessed using various metrics to evaluate its performance: 
+The model achieved an accuracy score of approximately 90.06%. Accuracy, however, isn't a good metric especially for imbalanced datasets and applications like medical diagnosis. It was then important to consider other metrics like precision, recall, and the confusion matrix to properly evaluate model performance. 
+
+Confusion Matrix 
+
+The confusion matrix provides insights into the model's ability to make accurate predictions. 
+In our case: [100 7] [10 54] 
+
+* The top left cell (100) represents true negatives (benign cases correctly predicted)
+* The top right cell (7) represents false positives (benign cases predicted as malignant)
+* The bottom left cell (10) represents false negatives (malignant cases predicted as benign)
+* The bottom right cell (54) represents true positives (malignant cases correctly predicted) 
+
+The model achieved a precision score of 89%. Precision measures the accuracy of positive predictions (Malignant). The model achieved a recall score of 84%, it indicates that 84% of the actual malignant cases were correctly identified. 
+
+After hyperparameter tuning for our decision tree model, the model correctly predicted the outcomes for approximately 93% of the test cases. This means that hyperparameter tuning helped improve the model’s performance. The metrics indicate that our model is highly effective at identifying whether a patient has breast cancer or not. 
+
 
 
 
