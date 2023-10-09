@@ -180,6 +180,11 @@ The model achieved a precision score of 89%. Precision measures the accuracy of 
 
 After hyperparameter tuning for our decision tree model, the model correctly predicted the outcomes for approximately 93% of the test cases. This means that hyperparameter tuning helped improve the model’s performance. The metrics indicate that our model is highly effective at identifying whether a patient has breast cancer or not. 
 
+## Activity 5 - PCA biomedical data
+
+Hyperlink to Jupyter Notebook:
+
+Hyperlink to Reflection: 
 
 
 
