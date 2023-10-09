@@ -29,6 +29,9 @@ My journey also delved into the technicalities of managing dataset dimensions, w
 The program naturally evolved to address critical aspects like data security, ensuring that my insights into health analytics are not only rooted in optimizing data utility but also safeguarding sensitive information, thereby synthesizing technical know-how with ethical practice. Consequently, this multifaceted approach has scaffolded my transition from a nascent understanding of health analytics to developing a robust, hands-on expertise that cohesively intertwines technical proficiency with a comprehensive understanding of healthcare systems and challenges.
 
 
+## Addressing Contemporary Health Challenges: The Role of Data Science
+
+A comprehensive review of a contemporary health challenges, within the South African context.
 
 
 
