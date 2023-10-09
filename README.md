@@ -46,9 +46,11 @@ The initial phase demanded meticulous analysis of the dataset, wherein we dedica
 
 This practical aspect not only solidified my understanding of the algorithm’s workings but also provided invaluable hands-on experience with coding and model implementation. Furthermore, throughout the implementation, each decision-making juncture—from selecting independent and dependent variables, pre-processing data, to tuning the model—was anchored by thorough justification and clear delineation of the process followed. This required weaving theoretical knowledge of linear regression, gleaned from course materials, with the practical challenges and considerations encountered during implementation. 
 
-## Activity 1 - Exploring 
+## Activity 1 - Exploring Data Types, Analysis Tools, and Learning in Health Analysis
 
 Link to slide show and embedded audio recording: https://github.com/christophertheys/Portfolio_of_Learning/blob/f663d048433557d2fad1293c02ec853ee53e2c17/1834424%20Activity%201%20Slide%20Show.pptx
 
 Download Raw file to access slideshow on Powerpoint 
+
+
 
