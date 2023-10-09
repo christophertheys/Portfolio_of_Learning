@@ -37,11 +37,13 @@ A comprehensive review of a contemporary health challenges, within the South Afr
 
 ## Lab 1 
 
-Hyperlink: 
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/4515591f638bcff1b5c9cc6b39de91fbc9fd6807/Notebook%20Lab%201%20V4.ipynb 
 
 Lab 1 Reflection - 
 Embarking upon an assignment that melded theoretical knowledge with applied skills, for this group task we delved deeply into the nuances of linear regression modelling, utilizing a carefully selected dataset as the bedrock for our exploration. 
+
 The initial phase demanded meticulous analysis of the dataset, wherein we dedicated substantial efforts towards understanding its features, distribution, and potential predictors. Upon selecting a relevant dataset, the journey ventured into practical implementation, utilizing Python libraries such as numpy, matplotlib, and sklearn to materialize a linear regression model. Here, we were able to put theory into practice, initializing the model, fitting it with data, and ultimately observing the resultant predictions and residuals. 
+
 This practical aspect not only solidified my understanding of the algorithm’s workings but also provided invaluable hands-on experience with coding and model implementation. Furthermore, throughout the implementation, each decision-making juncture—from selecting independent and dependent variables, pre-processing data, to tuning the model—was anchored by thorough justification and clear delineation of the process followed. This required weaving theoretical knowledge of linear regression, gleaned from course materials, with the practical challenges and considerations encountered during implementation. 
 
 
