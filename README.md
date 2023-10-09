@@ -84,6 +84,24 @@ Transitioning to model implementation, utilizing numpy, matplotlib, and sklearn 
 
 The subsequent model optimization posed a challenging yet enlightening experience, wherein we navigated through hyper-parameter tuning and regularisation techniques. While being mindful of the dataset's characteristics and the peril of overfitting, our group strategically employed techniques like GridSearchCV for hyperparameter tuning and implemented L1 and L2 regularization, ensuring our model was both accurate and generalizable to unseen data. 
 
+# Activity 2 - Using Health Analytics in a Healthcare Setting
+
+Hyperlink: 
+
+Reflection
+
+I focused my lens on Johns Hopkins Hospital, which has manifested tangible competitive and life-saving advantages through its strategic deployment of health analytics. Sourcing information through a myriad of academic articles, industry reports, and case studies, my exploration uncovered how health analytics has been vital, not only in shaping superior health outcomes but also in driving operational excellence within such establishments.
+
+Whilst crafting a presentation highlighting Johns Hopkins Hospital, I gained intricate insights into the multifaceted ways through which the organization adeptly utilizes health analytics to achieve varied outcomes. This includes amplification of patient care, optimization of operations, cost reduction, and the preservation of lives. A particularly remarkable discovery was the extensive and profound array of data sources exploited, ranging from Electronic Health Records (EHRs) to patient feedback surveys and numerous additional data points, all of which were thoroughly analysed to extract meaningful insights and perpetuate an ethos of continuous enhancement.
+Navigating through the specific tools and approaches employed, I uncovered a panorama of analytics initiatives, ranging from predictive analytics for patient outcomes, operational analytics for resource optimization, to prescriptive analytics for enhanced decision-making across the healthcare value chain. Johns Hopkins Hospital’s endeavours to intricately intertwine data and analytical tools, like machine learning algorithms and data visualization, into their operational and clinical frameworks. This offered a profound insight into the impact data can have on healthcare delivery and management.
+
+Some challenges were also identified that the healthcare organizations encounter in their health analytics journeys. Data privacy, exchange of data, and management emerged as prevailing hurdles. Johns Hopkins Hospital, in this context, illuminated how these challenges can be adeptly managed through robust data governance, stringent security protocols, and fostering a culture that seamlessly blends clinical expertise with analytical acumen.
+
+Reflecting upon this exploration, the lessons extend beyond the technical and strategic facets of health analytics. This task emphasized the vital role that data and analytics play in enhancing healthcare outcomes and operational efficacy. Furthermore, it has instilled a deeper appreciation for the complexity and multifaceted nature of implementing health analytics within organizations, thereby shaping a well-rounded perspective that connects technical, strategic, and ethical considerations in the realm of health analytics. 
+
+
+
+
 
 
 
