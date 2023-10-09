@@ -191,7 +191,7 @@ Hyperlink to Reflection: https://github.com/christophertheys/Portfolio_of_Learni
 The selected heart_disease dataset includes a multitude of variables including categorical, numeric and binary data types, each providing insight into various risk factors and associated indicators to cardiovascular health. 
 In the pursuit of understanding the innate structures and potentially discovering any natural clustering in the data, an analysis method, principal component analysis (PCA) and k-Means clustering, was implemented.
 
-Hyperlink: 
+Hyperlink: https://github.com/christophertheys/Portfolio_of_Learning/blob/f8a937bd6dd71820c71326d31bd671a1b55de1a2/Lab_4_1834424.ipynb 
 
 - Data Pre-processing
 
